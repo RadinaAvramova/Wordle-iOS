@@ -1,9 +1,6 @@
 //
 //  ViewController.swift
 //  Wordle
-//
-//  Created by Afraz Siddiqui on 3/7/22.
-//
 
 import UIKit
 
